@@ -3,7 +3,7 @@ import requests
 
 st.title("CHATBOT")
 
-API_KEY = "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"
+API_KEY = "
 
 if "chat" not in st.session_state:
     st.session_state.chat = []
